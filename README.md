@@ -1,5 +1,7 @@
 # BUS ADMITTANCE MATRIX HANDLER
 
+#### [See Gauss-Seidel Load Flow Solver](https://github.com/wayri/Gauss_Siedel_Load_Flow_Analyser/tree/master)
+
 This is a simple C++ console application which generates a bus admittance matrix, from the data of the admittance values and the nodes they are connected to. Each element is only eneterd once and the
 rest is handled by the program.
 
